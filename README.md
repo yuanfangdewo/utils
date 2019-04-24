@@ -1,2 +1,2 @@
 # utils
-golang 常用的库，方法整理
+golang 常用方法整理
